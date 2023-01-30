@@ -1,11 +1,11 @@
 ## Install Nexus Repository Manager
-- nexus-install.sh
+- https://github.com/ayaba25/mvn-nesux101/blob/main/nexus-install.sh
 
 ## Install Apache Maven
--maven-install.md
+- https://github.com/ayaba25/mvn-nesux101/blob/main/maven-install.md
 
 ## Install SonarQube
-- sonarqube-install.sh
+- https://github.com/ayaba25/mvn-nesux101/blob/main/sonarqube-install.sh
 
 ## Configure Nexus Repository 
 
